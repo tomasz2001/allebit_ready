@@ -17,6 +17,12 @@ basic
 piotr305
 
 
+<<<<<<< Updated upstream
 link do usługi
 
 https://allebit.ic.bike/
+=======
+link do usługi 
+
+https://allebit.ic.bike/
+>>>>>>> Stashed changes
