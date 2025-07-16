@@ -1,5 +1,5 @@
 # allebit
-
+License =  [CC BY-SA 4.0]
 
 // wykorzystane elementy 
 
